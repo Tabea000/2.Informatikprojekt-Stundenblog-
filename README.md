@@ -1,6 +1,6 @@
 # Stundenblog von Tabea und Juliane
 
-## Informatikprojekt2
+## Informatikprojekt 2
 
 
 [Erste Stunde](#eins)
