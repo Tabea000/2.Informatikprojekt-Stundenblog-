@@ -1,10 +1,6 @@
 # Stundenblog von Tabea und Juliane
+
 ##Informatikprojekt2
-
-
-# <a name="Inhaltsverzeichnis"></a>Informatik-Projekt 
-
-## Stundenblog von Tabea Schellen und Juliane Matthiesen
 
 
 [Erste Stunde](#eins)
