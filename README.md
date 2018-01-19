@@ -34,6 +34,7 @@ Cross the Road
 
 ## <a name="acht"></a>Achte Informatikstunde am 17.1.2018
 Cross the Road
+https://www.youtube.com/watch?v=ntufT0tm6xM
 
 ### <a name="sieben"></a>Siebte Informatikstunde am 15.12.2017
 Pong + Cross the Road
@@ -50,12 +51,12 @@ Shooting Game
 
 ### <a name="drei"></a>Dritte Informatikstunde am 24.11.2017
 Shooting Game
+https://www.youtube.com/watch?v=Un5c_LeC0Pw
 
 ### <a name="zwei"></a>Zweite Informatikstunde am 22.11.2017
 Pong
 
 ### <a name="eins"></a>Erste Informatikstunde am 11.11.2017
 Überlegungen + Pong
-
 https://www.youtube.com/watch?v=9TYA3XTpYGM
-https://www.youtube.com/watch?v=ntufT0tm6xM
+
