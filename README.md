@@ -53,7 +53,7 @@ Shooting Game
 Nachdem unsere Fortschritte bei "Pong" etwas nachließen und wir in der letzten Stunde nicht so recht wussten, wie wir nun fortfahren sollten um die aufgekommenen Schwierigkeiten bezüglich der score zu beseitigen, beschlossen wir heute uns zunächst einem anderen Projekt zuzuwenden und dieses in den folgenden Stunden abzuschließen, um nicht die Freude an dieser Art zu programmieren zu verlieren. 
 Da unser Ziel für diese Projektarbeit es war, mehrere kleine und berühmte Minispiele nachzuprogrammieren, überlegten wir uns einige Zeit lang, womit wir uns nun beschäftigen könnten. Unsere Wahl fiel auf ein "Shooting Game", von welchem wir ein ausführliches Beispiel auf Youtube fanden, auf das wir uns bei Schwierigkeiten beziehen konnten, jedoch wollten wir uns nicht nur an dem Beispiel entlang arbeiten. 
 https://www.youtube.com/watch?v=Un5c_LeC0Pw
-![bsp applab](https://www.youtube.com/watch?v=Un5c_LeC0Pw"Shooting Game auf Youtube")
+![bsp applab](https://www.youtube.com/watch?v=Un5c_LeC0Pw "Shooting Game auf Youtube" )
 
 ### <a name="zwei"></a>Zweite Informatikstunde am 22.11.2017
 Pong
