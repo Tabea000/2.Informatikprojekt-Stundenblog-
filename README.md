@@ -103,10 +103,10 @@ Won
 
 ### <a name="vier"></a>Vierte Informatikstunde am 1.12.2017
 Shooting Game 2Stunden
--Timer und Punkte
--Treffer-> Farbwechsel
+- Timer und Punkte
+- Treffer-> Farbwechsel
 - Game over
--Schwierigkeiten treten beim Ablauf 
+- Schwierigkeiten treten beim Ablauf 
 - kein vollständiges verschwinden nach Schuss
 - Versuch SG no change -> points lösen kein Won aus
 
@@ -119,7 +119,8 @@ Da unser Ziel für diese Projektarbeit es war, mehrere kleine populäre Minispie
 
 Dies ist der Link zu dem "<a href="https://www.youtube.com/watch?v=Un5c_LeC0Pw">Shooting Game auf Youtube</a>" von dem wir uns wahrscheinlich in den folgenden Stunden Anregungen holen werden.
 
-Darauf hin begannen wir mit den grundlegenden Elementen des Spieles. Zunächst erstellten wir die Linse zum fokussieren auf das Ziel. Wir gestalteten diesen Sprite durch die Funktion Paint a costume und die Möglichkeiten dabei exakte Kreise und Geraden zu zeichen. Das script ermöglicht es, die Linse durch Mausbewegungen zu lenken. Genauere Erläuterungen der Blöcke und deren Funktionsweisen erfolgen wie bereits zuvor erläutert wieder im "<a href="https://github.com/Tabea000/2.Informatikprojekt-Projektpraesentation-">Projektpräsentationsblog</a>" . Ebenfalls 
+Daraufhin begannen wir mit den grundlegenden Elementen des Spieles. Zunächst erstellten wir die Linse zum fokussieren auf das Ziel. Wir gestalteten diesen Sprite durch die Funktion "Paint a costume" und die Möglichkeiten dabei exakte Kreise und Geraden zu zeichen. Das script ermöglicht es, die Linse durch Mausbewegungen zu lenken. Genauere Erläuterungen der Blöcke und deren Funktionsweisen erfolgen wie bereits zuvor erläutert wieder im "<a href="https://github.com/Tabea000/2.Informatikprojekt-Projektpraesentation-">Projektpräsentationsblog</a>" . Ebenfalls wählten den background der stage aus den Vorlagen aus und importierten die costumes der abzuschießenden Objekte aus. In diesem Fall wurden es bei uns Oktopusse, welche zwischen zwei costumes alle 0,2 s wechseln. Wir vervielfachten diese auf eine Anzah von 6, nachdem wir das script für die random-Bewegung geschrieben hatte.  
+Zuletzt holten wir uns eine Anregung, da wir nicht ganz wussten, wie wir es einrichten konnten, dass die Linse auch ein Abschießen des Objektes einleiten könnte. Dabei erkannten wir, dass wir über den "mouse-pointer" eine Verbindung zum betroffenen sprite und der "space-Taste" gezogen werden. Zusammengefügt in einem Block war es uns am Ende der Stunde wirkich möglich, dass der sich wegende Oktopus durch die Linse, welche sich mit dem "mouse-pointer" bewegt, abgeschossen werden konnte und im Anschluss, durch "hide" von der stage verschwand.
 
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
