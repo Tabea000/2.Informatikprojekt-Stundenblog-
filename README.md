@@ -29,6 +29,8 @@
 
 [Dreizehnte Stunde](#dreizehn)
 
+![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/CtR%201_Pr%C3%A4stentation.png?raw=true "Screenshot von AppLab")
+
 ### <a name="elf"></a>Elfte Informatikstunde am 26.1.2018
 -1 Stunde
 - Vorarbeiten zu hause: zuschneiden auf Word- kein Ergebnis, Speichern auf PC wieder ganzer screenshot
