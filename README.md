@@ -29,6 +29,20 @@
 
 [Dreizehnte Stunde](#dreizehn)
 
+### <a name="elf"></a>Elfte Informatikstunde am 26.1.2018
+-1 Stunde
+- Vorarbeiten zu hause: zuschneiden auf Word- kein Ergebnis, Speichern auf PC wieder ganzer screenshot
+- Besprechungen
+- Hochladen der Screenshots von CtR und SG
+- Zuscheiden auf paint
+
+### <a name="zehnt"></a>Zehnte Informatikstunde am 24.1.2018
+-1 Stunde
+- Umstrukturierung Stundenblog -> oben nach unten
+- Erstellen des Bioldverzeichnisses
+- Besprechen des weiteren Vorgehens 
+- kleinere Korrekturen an Spielen (Zusammenfürgen von kleinen Einzelblöcken; z.B. Hide+timer0 -> Ablauf timer)
+
 ### <a name="neun"></a>Neunte Informatikstunde am 19.1.2018
 Cross the Road
 
@@ -45,21 +59,28 @@ Pong
 
 ### <a name="fünf"></a>Fünfte Informatikstunde am 6.12.2017
 Shooting Game 1 stunde 
-Schwierigkeiten durch alternatives Skript
+SG aktuell-> won ohne change 
+Schwierigkeiten durch alternatives Skript -> SG Versuch Won aus Grundversion mit Farbenwechsel = Endersion
+-> Farben, Timer, Points
 Won
 
 
 ### <a name="vier"></a>Vierte Informatikstunde am 1.12.2017
 Shooting Game 2Stunden
 -Timer und Punkte
--Schwierigkeiten treten beim Balauf auf
-Game over
+-Treffer-> Farbwechsel
+- Game over
+-Schwierigkeiten treten beim Ablauf 
+- kein vollständiges verschwinden nach Schuss
+- Versuch SG no change -> points lösen kein Won aus
+
 
 ### <a name="drei"></a>Dritte Informatikstunde am 24.11.2017
 
-Nachdem unsere Fortschritte bei "Pong" etwas nachließen und wir in der letzten Stunde nicht so recht wussten, wie wir nun fortfahren sollten um die aufgekommenen Schwierigkeiten bezüglich der score zu beseitigen, beschlossen wir heute uns zunächst einem anderen Projekt zuzuwenden und dieses in den folgenden Stunden abzuschließen, um nicht die Freude an dieser Art zu programmieren zu verlieren. 
-Da unser Ziel für diese Projektarbeit es war, mehrere kleine und berühmte Minispiele nachzuprogrammieren, überlegten wir uns einige Zeit lang, womit wir uns nun beschäftigen könnten. Unsere Wahl fiel auf ein "Shooting Game", von welchem wir ein ausführliches Beispiel auf Youtube fanden, auf das wir uns bei Schwierigkeiten beziehen könnten, jedoch wollten wir uns nicht nur an dem Beispiel entlang arbeiten. 
-Dies ist der Link zu dem "<a href="https://www.youtube.com/watch?v=Un5c_LeC0Pw">Shooting Game auf Youtube</a>" von dem wir uns in den folgenden Stunden Anregungen holen werden.
+Nachdem unsere Fortschritte bei "Pong" etwas nachließen und wir in der letzten Stunde nicht so recht wussten, wie wir nun fortfahren sollten um die aufgekommenen Schwierigkeiten bezüglich der score zu beseitigen, beschlossen wir, heute uns zunächst einem anderen Projekt zuzuwenden und dieses in den folgenden Stunden abzuschließen, um nicht die Freude an dieser Art zu programmieren zu verlieren. 
+Da unser Ziel für diese Projektarbeit es war, mehrere kleine populäre Minispiele nachzuprogrammieren, überlegten wir uns einige Zeit lang, womit wir uns nun beschäftigen könnten. Unsere Wahl fiel auf ein "Shooting Game", das jedem bekannt sein sollte. Von einem solchen Spiel fanden wir eine ausführliche Anleitung für Snap auf Youtube, auf welche das wir uns bei Schwierigkeiten beziehen könnten, jedoch wollten wir zunächst den Anfang allein angehen.
+
+Dies ist der Link zu dem "<a href="https://www.youtube.com/watch?v=Un5c_LeC0Pw">Shooting Game auf Youtube</a>" von dem wir uns wahrscheinlich in den folgenden Stunden Anregungen holen werden.
 
 Darauf hin begannen wir mit den grundlegenden Elementen des Spieles. Zunächst erstellten wir die Linse zum fokussieren auf das Ziel. Wir gestalteten diesen Sprite durch die Funktion Paint a costume und die Möglichkeiten dabei exakte Kreise und Geraden zu zeichen. Das script ermöglicht es, die Linse durch Mausbewegungen zu lenken. Genauere Erläuterungen der Blöcke und deren Funktionsweisen erfolgen wie bereits zuvor erläutert wieder im "<a href="https://github.com/Tabea000/2.Informatikprojekt-Projektpraesentation-">Projektpräsentationsblog</a>" . Ebenfalls 
 
