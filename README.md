@@ -54,7 +54,7 @@ Cross the Road -> 2 Stunden
 
 ## <a name="acht"></a>Achte Informatikstunde am 17.1.2018
 Cross the Road -> 1 Stunde
--Schreiben der Scripts für die sprites Katzen und Maus
+- Schreiben der Scripts für die sprites Katzen und Maus
 - timer-> Game over
 - touching Katzen -> Game over 
 
