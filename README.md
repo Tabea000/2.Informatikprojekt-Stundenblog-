@@ -1,33 +1,31 @@
-# Stundenblog von Tabea und Juliane
+# <a name="Inhaltsverzeichnis"></a> Stundenblog von Tabea und Juliane
 
 ## Informatikprojekt 2
 
 
-[Erste Stunde](#eins)10.11.
+[Erste Stunde](#eins)
 
-[Zweite Stunde](#zwei)22.11.
+[Zweite Stunde](#zwei)
 
-[Dritte Stunde](#drei)24.11.
+[Dritte Stunde](#drei)
 
-[Vierte Stunde](#vier)1.12.
+[Vierte Stunde](#vier)
 
-[Fünfte Stunde](#fünf)6.12.
+[Fünfte Stunde](#fünf)
 
-[Sechste Stunde](#sechs)8.12.
+[Sechste Stunde](#sechs)
 
-[Siebte Stunde](#sieben)15.1.
+[Siebte Stunde](#sieben)
 
-[Achte Stunde](#acht)17.1.
+[Achte Stunde](#acht)
 
-[Neunte Stunde](#neun)19.1.
+[Neunte Stunde](#neun)
 
 [Zehnte Stunde](#zehn)
 
 [Elfte Stunde](#elf)
 
-[Zwölfte Stunde](#zwölf)
 
-[Dreizehnte Stunde](#dreizehn)
 
 ![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/CtR%201_Pr%C3%A4stentation.png?raw=true "Screenshot von AppLab")
 
@@ -38,12 +36,18 @@
 - Hochladen der Screenshots von CtR und SG
 - Zuscheiden auf paint
 
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
+
+
 ### <a name="zehnt"></a>Zehnte Informatikstunde am 24.1.2018
 -1 Stunde
 - Umstrukturierung Stundenblog -> oben nach unten
 - Erstellen des Bioldverzeichnisses
 - Besprechen des weiteren Vorgehens 
 - kleinere Korrekturen an Spielen (Zusammenfürgen von kleinen Einzelblöcken; z.B. Hide+timer0 -> Ablauf timer)
+
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
+
 
 ### <a name="neun"></a>Neunte Informatikstunde am 19.1.2018
 Cross the Road -> 2 Stunden
@@ -54,11 +58,17 @@ Cross the Road -> 2 Stunden
 - Beendigt: sichtbarer Erfolg
 -> schnellere Erfolge bei ähnlichen Aufgaben
 
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
+
+
 ## <a name="acht"></a>Achte Informatikstunde am 17.1.2018
 Cross the Road -> 1 Stunde
 - Schreiben der Scripts für die sprites Katzen und Maus
 - timer-> Game over
 - touching Katzen -> Game over 
+
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
+
 
 ### <a name="sieben"></a>Siebte Informatikstunde am 15.12.2017
 Pong + Cross the Road ->2 Stunden
@@ -72,9 +82,13 @@ Pong + Cross the Road ->2 Stunden
 - Festlegen Hintergrund (Malen)
 - Auswählen der sprites: Katzen und Maus
 
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
+
 
 ### <a name="sechs"></a>Sechste Informatikstunde am 8.12.2017
 Pong ->2 Stunden
+
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
 ### <a name="fünf"></a>Fünfte Informatikstunde am 6.12.2017
@@ -83,6 +97,8 @@ SG aktuell-> won ohne change
 Schwierigkeiten durch alternatives Skript -> SG Versuch Won aus Grundversion mit Farbenwechsel = Endersion
 -> Farben, Timer, Points
 Won
+
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
 ### <a name="vier"></a>Vierte Informatikstunde am 1.12.2017
@@ -94,6 +110,7 @@ Shooting Game 2Stunden
 - kein vollständiges verschwinden nach Schuss
 - Versuch SG no change -> points lösen kein Won aus
 
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 ### <a name="drei"></a>Dritte Informatikstunde am 24.11.2017 ->2stunden
 
@@ -104,12 +121,21 @@ Dies ist der Link zu dem "<a href="https://www.youtube.com/watch?v=Un5c_LeC0Pw">
 
 Darauf hin begannen wir mit den grundlegenden Elementen des Spieles. Zunächst erstellten wir die Linse zum fokussieren auf das Ziel. Wir gestalteten diesen Sprite durch die Funktion Paint a costume und die Möglichkeiten dabei exakte Kreise und Geraden zu zeichen. Das script ermöglicht es, die Linse durch Mausbewegungen zu lenken. Genauere Erläuterungen der Blöcke und deren Funktionsweisen erfolgen wie bereits zuvor erläutert wieder im "<a href="https://github.com/Tabea000/2.Informatikprojekt-Projektpraesentation-">Projektpräsentationsblog</a>" . Ebenfalls 
 
+
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
+
 ### <a name="zwei"></a>Zweite Informatikstunde am 22.11.2017
 Pong
 -1 Stunde
+
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
+
 
 ### <a name="eins"></a>Erste Informatikstunde am 10.11.2017
 Überlegungen + Pong
 - 2Stunden
 https://www.youtube.com/watch?v=9TYA3XTpYGM
 
+
+
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
