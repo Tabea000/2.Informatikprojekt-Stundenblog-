@@ -45,15 +45,31 @@
 
 ### <a name="neun"></a>Neunte Informatikstunde am 19.1.2018
 Cross the Road -> 2 Stunden
+- 3Katzen-> 1 Katze + 4 andere= höhere Schwierigkeit
+- Muffin als Ziel-> You won
+- timer rückwärts
+- Anpassen der Geschwindigkeit (verschiedene)
 - Beendigt: sichtbarer Erfolg
 -> schnellere Erfolge bei ähnlichen Aufgaben
 
 ## <a name="acht"></a>Achte Informatikstunde am 17.1.2018
 Cross the Road -> 1 Stunde
-https://www.youtube.com/watch?v=ntufT0tm6xM
+-Schreiben der Scripts für die sprites Katzen und Maus
+- timer-> Game over
+- touching Katzen -> Game over 
 
 ### <a name="sieben"></a>Siebte Informatikstunde am 15.12.2017
-Pong + Cross the Road->2 Stunden
+Pong + Cross the Road ->2 Stunden
+-
+-
+-
+-
+-2. Stunde: Überlegungen-welches neue Spiel? CtR Idee
+- Suche auf youtube->  https://www.youtube.com/watch?v=ntufT0tm6xM
+- neues Projekt auf snap
+- Festlegen Hintergrund (Malen)
+- Auswählen der sprites: Katzen und Maus
+
 
 ### <a name="sechs"></a>Sechste Informatikstunde am 8.12.2017
 Pong ->2 Stunden
