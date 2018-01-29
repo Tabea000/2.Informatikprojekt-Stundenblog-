@@ -27,7 +27,7 @@
 
 
 
-![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/CtR%201_Pr%C3%A4stentation.png?raw=true "Screenshot von AppLab")
+
 
 ### <a name="elf"></a>Elfte Informatikstunde am 26.1.2018
 -1 Stunde
@@ -92,25 +92,25 @@ Pong ->2 Stunden
 
 
 ### <a name="fünf"></a>Fünfte Informatikstunde am 6.12.2017
-Shooting Game 1 stunde 
-SG aktuell-> won ohne change 
-Schwierigkeiten durch alternatives Skript -> SG Versuch Won aus Grundversion mit Farbenwechsel = Endersion
--> Farben, Timer, Points
-Won
+Das heutige Ziel für unsere Stunde war es, das Projekt "Shooting Game" abzuschließen. Dafür fehlte uns eigentlich nur die Eingliederung von "Won" in verschiedene Funktionen. Zunächst setzten wir fest, dass wenn mehr als sechs Punkte, durch das Abschießen der sechs Oktopusse erzielt wurden, Der sprite erscheint und alle anderen Abläufe des Spiels, bis zu einem erneuten Start durch Doppeklklick der Fahne, ausgesetzt werden. Zudem galt es zu beachten, dass zunächst zu dem richtigen costume gewechselt wird, bevor er Block bei dem Baustein "show" angelangt. Diesen Erfolg speicherten wir als "S.G. aktuell".
+
+Da wir wir noch genug Zeit hatten, wollten wir, anstatt nur die "Won-Funktion" zuübertragen, auch versuchen, auf uns noch unbekannte Weise die kleineren Schwierigkeiten der Abläufe auszubessern. Überraschender Weise war es jedoch so, dass bei den ersten Abläufen auch mit dem Won-costume das Spiel fehlerfrei funktionierte. Und wir nur noch ein paar wenige Blöcke zusammenfügten, welche wir ursprünglich getrennt entwickelt hatten und deren Zusammenfügung für uns nun Sinn ergab.
+
+Unser Fazit bei diesem Spiel ist überwiegend positiv, da wir fast ganz allein es schafften, ein Spiel zu programmieren, indem wir uns neue, aber auch schon bekannte Funktionen des Programmes Snap zu Nutzen machen konnten. Was uns leider etwas Einschränkte, waren die Grenzen, die dieses Programm hat. Zur Berechnung und Ausführung der von uns programmierten Einstellungen, benötigte Snap! beispielsweise bei dem Trefferbaustein aus unererfindlichen Gründen wesentlich länger und behinderte somit den Ablauf. Außerdem konnten wir auch bis zum Schluss den Fehler nicht beheben, dass bei mehrfachem Klicken auf ein Objekt auch die Punktanzahl weiter steigt und es somit theoretisch möglich wäre, nur durch einen Oktopuss fast seine 6 Punkte für ein erfolgreiches Spiel zu erreichen. Möglicherweise würde eine an die Farbe gekoppelte score hierbei weiterhelfen. Da dies jedoch eine Umstrukturierung nahezu aller scripts erfordern würde, möchten wir uns in den nächsten Stunden lieber wieder dem Spiel Pong zuwenden, bei welchem wir noch deutlich größere Lücken aufzuarbeiten haben.
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
 
 ### <a name="vier"></a>Vierte Informatikstunde am 1.12.2017
-Shooting Game 2Stunden
-- Timer und Punkte
-- Treffer-> Farbwechsel
-- Game over
-- Schwierigkeiten treten beim Ablauf 
-- kein vollständiges verschwinden nach Schuss
-- Versuch SG no change -> points lösen kein Won aus
+
+Heute hatten wir erneut eine Doppelstunde Zeit, um uns weiter mit dem Shooting Game zu beschäftigen. Wir ergänzten unser Spiel durch die Funktion "timer", welcher rückwärts ablaufend, das Spiel zeitlich eingrenzt. Ist dieser gleich 0, taucht nun ein neu hinzugefügter Spite ("Game over!") auf, der das Spiel beendet. Außerdem fügten wir nochdie Variable der Punkte ein. Wird ein Treffer erzielt, also wird die "space-Taste" gedrückt, wenn mit der Linse auf ein Objekt fokussiert ist, verschwindet dieses und die Punktzahl erhöht sich um den Betrag 1. Da wir diesen Vorgang, welcher auch im Beispielvideo ungefähr gleich gestaltet wurde, etwas abrupt empfanden, entschieden wir uns, dass sich bei einem Treffer, nachdem die Punktzahl angestiegen ist, zunächst die Farbe des costumes ändert und daraufhin erst der sprite von der stage verschwindet.Dies machten wir durch die Nutzung des Bausteins, "set coloureffekt to x" möglich. Natürlich mussten wir im Gegenzug auch wieder für einen Neustart diesen Effekt auf 0 setzten. 
+
+Da jetzt jedoch Schwierigkeiten im Ablauf auftrate, d.h. es verschwanden nicht mehr alle Oktopusse, die ihnre Farbe änderten, schlug uns Herr Buhl vor, den langen Block, der diesen Vorgang möglich machte als einen Baustein zu vereinen, da das Programm offensichtlich Schwierig hatte, den komplizierten Block einwandfrei umsetzten zu können. Hierfür wählten wir einen uns bekannten weg und erstellten so mithilfe der Funktion "make a block" den Baustein "Treffer", der eigentlich den reibungsfreien Ablauf garantieren sollte, da er zahlreiche Funktionen in einem vereint.
+
+Trotz alledem war es so, dass noch immer nicht alle Oktopuss nach dem Farbumschwung nicht mehr sichtbar waren. Deshalb entfernten wir die Trefferfunktion wieder aus dem script und speicherten diesen Versuch aber als neue Datei namens "S.G. no change" ab. In den letzten Minuten der Stunde ergänzten wir den Sprite des "Game overs" mit dem costume "Won". Für die nächste Stunde nahmen wir uns vor, den Block für "Won" sowohl für die Spielversion mit, aber auch für die ohne Farbwechsel einzurichten und am Ende der Stunde mit diesem Minispiel abzuschließen.
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
+
 
 ### <a name="drei"></a>Dritte Informatikstunde am 24.11.2017 ->2stunden
 
