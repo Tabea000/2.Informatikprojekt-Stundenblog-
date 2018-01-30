@@ -50,14 +50,15 @@
 
 
 ### <a name="neun"></a>Neunte Informatikstunde am 19.1.2018
-Cross the Road -> 2 Stunden
-- 3Katzen-> 1 Katze + 4 andere= höhere Schwierigkeit
-- Muffin als Ziel-> You won / Game over Mitte
-- timer rückwärts
-- Anpassen der Geschwindigkeit (verschiedene)
--Kleinigkeiten: Maus immer an gleichen Ort ebi Spielstart
-- Beendigt: sichtbarer Erfolg
--> schnellere Erfolge bei ähnlichen Aufgaben
+
+Gleich zu beginn der heutigen Doppelstunde wussten wir, dass wir es schaffen könnten, bereits heute das Spiel "Cross the Road" abzuschließen und dies wollten wir auch umsetzen. Zunächst überarbeiteten wir noch mal die Verhältnisse der Größen und der Anzahl der Jäger zu der Maus. Wir gliederten die dreispurige Straße in nun fünf Abschnitte und ersetzten zei Katzen durch viel kleine Käfer. Zudem verändeten wir die Bewegungsabläufe durch unterschiedliche Schrittzahlen so, dass jeder Jäger nun eine andere Geschwindigkeit besitzt. Durch diese Änderungen haben wir, wie wir im Selbsttest feststellten, die die Schwierigkeit die Maus auf die gegenüberliegende Seite zu bringen erheblich gesteigert.
+
+Daraufhin änderten wir die Ablaufreihenfolge des timers, wie in der letzten Stunde vorgenommen, von aufsteigend zu absteigend um. Somit war die eine Möglichkeit des Spielende, das "Game over!", fertiggestellt. Doch jeder Spieler möchte auch ein kleines erfolgserlebnis empfinden, sodass natürlich auch wieder ein "You won!" nicht fehlen durfte. Wir entschieden uns für das gleiche Costume, wie bereits bei "Pong", mit dem Unterschied, dass wir dieses Mals selbstverständkicher Weise die Zahlen (1/2) wegließen. Zunächst überlegten wir, ob wir das auftauchen dieses Costumes von der Farbe der stage am Ziel abhängig machen wollten, doch da der Untergrund auf beiden Seiten jenseits der Straße gleichfarbig war, entschieden wir uns, einen neuen Sprite zu importieren. Bei einer Berührung der Maus mit dem Ziel (wir wählten passenderweise einen Muffin) läft nun der gleiche Prozess ab, wie bereits bei dem "touch"-abhängigen "Game over!". Die Maus swicht hierbei zu dem costume "You won!". 
+
+Zuallerletzt galt es nur noch, aus ästhetischen Gründen an die touching-effect-Blöcke heranzuhängen, dass die Maus hierbei in der Mitte der stage auftauchen soll und in einem neuen Block, dass zu Beginn des Spieles auch die Maus immer wieder zu einer Startposition zurückkehren und wieder das Maus-costume annehmen soll.
+
+Somit haben wir nun auch unser drittes Projekt der Reihe fertiggestellt und wir haben bemerkt, dass bei den Spielen oft Gemeinsamkeiten auftreten, sodass wir weniger Schwierigkeiten hatten und schneller vorrankamen, als bei vorhergegangenen Projekten. "<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Crossy%20road%2015.12-">Cross the Road</a>" hat uns Spaß gemacht, doch denken wir ach, dass es wahrscheinlich besser wäre, sich nun etwas anspruchsvolleren Aufgaben zuzuwenden, da jetzt auch bald die letzte große Projekteinheit begonnen wird. Wir konnten uns aber in den vergangenen Stunden das Prinzip aneignen, einfache und kleine Minispiele zu programmien, an denen jeder Spaß hat.
+
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
