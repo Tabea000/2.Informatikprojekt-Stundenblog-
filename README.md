@@ -30,7 +30,8 @@
 
 
 ### <a name="elf"></a>Elfte Informatikstunde am 26.1.2018
--1 Stunde
+-1 Stunde 
+Besprechen des weiteren Vorgehens
 - Vorarbeiten zu hause: zuschneiden auf Word- kein Ergebnis, Speichern auf PC wieder ganzer screenshot
 - Besprechungen
 - Hochladen der Screenshots von CtR und SG
@@ -43,11 +44,10 @@
 
 In der heutigen Stunde wollte sich Herr Buhl einmal einen Überblick über die Fortschritte unserer Klasse in ihren Projekten bekommen und schaute sich die Projekte jeder Gruppe einmal an. Er kam bei uns zu dem gleichen Schluss, den auch wir letzte Stunde gezogen haben. In der Zukunft sollen wir uns etwas anspruchsvolleren Aufgaben zuwenden, sodass wir uns auch weiterentwickel und nicht, wie wir, trotz Erfahrungszuwachs eher auf einer Stufe bleiben. Deshalb möchten wir wahrscheinlich wieder für das nächste Projekt, dass nun kurz bevor steht, uns wieder dem Kurs unseres ersten "<a href="https://github.com/Tabea000/Informatik-Projekt-">Informatik-Projekts</a>" wieder zuwenden. So ist es uns auch möglich in den Kontakt uns unbekannter Möglichkeiten des Programmes Snap! zu kommen.
 
+Da wir heute in der kurzen Zeit sowieso kein neues Projekt mehr anfangen konnten, wendeten wir uns seit langer zeit mal wieder unserem Blog hier zu. Am Tag der Rückgabe unseren ersten Projektes, hatte Herr Buhl angekündigt, dass es er vorziehen  würde, dass aktuelle Beiträge zuoberst angezeit werden. Deshalb drehten wir die Die Reihenfolge der beiträge um, ließen aber die des Inhaltverzeichnisses bestehen. Das war, da wir alle Texte verschieben mussten, eine ziemlich aufwendige Arbeit, die wir, hätten wir die zu Beginn gemacht, uns hätten sparen können. Darauhin versuchten wir ein Bildverzeichnis einzurichten, da unsere letzten Erfahrungen hiermit jedoch leider weit zurücklagen, waren wir auf die Hilfe unseres Lehrers angewisen, der uns schon beim ersten Mal behilflich war. Den Weg vergessen wir auf jeden Fall nicht mehr so schnell.
 
-- Umstrukturierung Stundenblog -> oben nach unten
-- Erstellen des Bioldverzeichnisses
-- Besprechen des weiteren Vorgehens 
-- kleinere Korrekturen an Spielen (Zusammenfürgen von kleinen Einzelblöcken; z.B. Hide+timer0 -> Ablauf timer)
+Den Abschluss unserer Stunde waren einige kleinere Veränderungen an den Spielen, bei denen sich jedoch nichts grundlegendes äbnderte. So legten wir kleinere Blöcke, welche sich nicht gegenseitig behindern zusammen und schafften somit ein etwas übersichtlicheres Bild in unseren Snap!-Projekten. 
+
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
