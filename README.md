@@ -40,7 +40,10 @@
 
 
 ### <a name="zehnt"></a>Zehnte Informatikstunde am 24.1.2018
--1 Stunde
+
+In der heutigen Stunde wollte sich Herr Buhl einmal einen Überblick über die Fortschritte unserer Klasse in ihren Projekten bekommen und schaute sich die Projekte jeder Gruppe einmal an. Er kam bei uns zu dem gleichen Schluss, den auch wir letzte Stunde gezogen haben. In der Zukunft sollen wir uns etwas anspruchsvolleren Aufgaben zuwenden, sodass wir uns auch weiterentwickel und nicht, wie wir, trotz Erfahrungszuwachs eher auf einer Stufe bleiben. Deshalb möchten wir wahrscheinlich wieder für das nächste Projekt, dass nun kurz bevor steht, uns wieder dem Kurs unseres ersten "<a href="https://github.com/Tabea000/Informatik-Projekt-">Informatik-Projekts</a>" wieder zuwenden. So ist es uns auch möglich in den Kontakt uns unbekannter Möglichkeiten des Programmes Snap! zu kommen.
+
+
 - Umstrukturierung Stundenblog -> oben nach unten
 - Erstellen des Bioldverzeichnisses
 - Besprechen des weiteren Vorgehens 
