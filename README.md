@@ -33,12 +33,8 @@
 
 Heute mussten wir erstmal wichtige Besprechungen untereinander tätigen. Bis jetzt haben wir unseren Projektpräsentationsblog noch nicht richtig begonnen und der Abgabetermin rückt immer näher, sodass dieses Thema immer mehr an Bedeutung gewinnt, andererseits wäre es auch nicht schlecht ein viertes kleines Projekt noch abzuschließen. Letztlich fiel unsere Wahl auf die erste Vorgehensweise. Weitere Projekte würden auch noch weitere Arbeit schaffen, die wir zu beenden hätten. 
 
--1 Stunde 
-Besprechen des weiteren Vorgehens
-- Vorarbeiten zu hause: zuschneiden auf Word- kein Ergebnis, Speichern auf PC wieder ganzer screenshot
-- Besprechungen
-- Hochladen der Screenshots von CtR und SG
-- Zuscheiden auf paint
+Da wir uns dieser Situation bereits bewusst waren, haben wir zu hause etwas vorgearbeitet, um bezüglich des Bildverzeichnisses, das noch leer war, vorranzukommen. Hierfür haben wir von den endgültigen Projekten screenshots gemacht und in einm Word-Dokument zugeschnitten und bearbeitet. Dass bei diesem Vorgehen nicht wirklich geschnitten wird, ar uns nicht bewusst. Als wir soebend versuchten die nutzbaren Bilder auf dem PC zu speichern, war gleich ersichtlich, dass der gesamte Screenshot die Datei bildete. Die uns bekannteste Methode war es, nun das Programm "Paint" zu nutzen, was auch funktionierte. Jedoch waren die zeitlichen Gewinne, die wir mit der Vorarbeit geleistet hatten, somit völlig umsonst. Wir waren schon etwas enttäuschr, denn von allen drei Projekten galt es jetzt ca. 7 Screenshots zu schneiden, auf dem PC zu speichern und schließlich auf Github hochzuladen, das war ohne Zweifel eine siehr mühselige und vor allem doppelte Arbeit. Trotzdem schafften wir es in der letzten Minute auch dasd letzte Bild hochzuladen.
+
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
