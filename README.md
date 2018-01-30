@@ -30,6 +30,9 @@
 
 
 ### <a name="elf"></a>Elfte Informatikstunde am 26.1.2018
+
+Heute mussten wir erstmal wichtige Besprechungen untereinander tätigen. Bis jetzt haben wir unseren Projektpräsentationsblog noch nicht richtig begonnen und der Abgabetermin rückt immer näher, sodass dieses Thema immer mehr an Bedeutung gewinnt, andererseits wäre es auch nicht schlecht ein viertes kleines Projekt noch abzuschließen. Letztlich fiel unsere Wahl auf die erste Vorgehensweise. Weitere Projekte würden auch noch weitere Arbeit schaffen, die wir zu beenden hätten. 
+
 -1 Stunde 
 Besprechen des weiteren Vorgehens
 - Vorarbeiten zu hause: zuschneiden auf Word- kein Ergebnis, Speichern auf PC wieder ganzer screenshot
