@@ -52,9 +52,10 @@
 ### <a name="neun"></a>Neunte Informatikstunde am 19.1.2018
 Cross the Road -> 2 Stunden
 - 3Katzen-> 1 Katze + 4 andere= höhere Schwierigkeit
-- Muffin als Ziel-> You won
+- Muffin als Ziel-> You won / Game over Mitte
 - timer rückwärts
 - Anpassen der Geschwindigkeit (verschiedene)
+-Kleinigkeiten: Maus immer an gleichen Ort ebi Spielstart
 - Beendigt: sichtbarer Erfolg
 -> schnellere Erfolge bei ähnlichen Aufgaben
 
@@ -62,10 +63,10 @@ Cross the Road -> 2 Stunden
 
 
 ## <a name="acht"></a>Achte Informatikstunde am 17.1.2018
-Cross the Road -> 1 Stunde
-- Schreiben der Scripts für die sprites Katzen und Maus
-- timer-> Game over
-- touching Katzen -> Game over 
+
+Heute wollten wir verschiedene Zwischenziele erreichen und schafften dies auch erfolgreich, auch wenn wir nur eine Einzelstunde Zeit hatten. Zunächst erntwickelten wir die Steuerung der Maus, die sich mit allen vier Pfeiltasten fortbewegen lässt. Daraufhin drehten wir die Katzen so, dass sie sich jetzt senkrecht über die stage bewegen. Mittels des Bausteins "if on edge, bounce" in forever"-"move x steps" konnten wir den einwandfreien Ablauf ermöglichen. Jetzt mussten wir uns der etwas schwierigeren Aufgabe zuwenden, dem Spiel ein Ende zu geben. Hierfür importierten wir für einen neuen sprite das costume "Game over!" nach Snap! und richteten ähnlich wie bei den vorhergegangenen Spielen einen timer ein, der sich jedoch noch jetzt jede Sekunde um den Wert Eins erhöht. 
+
+Dem wollen wir uns jedoch erst nächte Stunde zuwenden, da zunächst für uns noch interessanter war, "Game over!" auch immer bei einer Berührung mit einem der Jäger erscheinen zu lassen. Auch nach einigen Versuchen konnten wir nicht herausfinden, wie man den "Game over!"-sprite mit dem Block koppeln könnte, der im script der Maus hinterlegt ist ("If sprite-Maus -> touching sprite-Jäger 1/2/3"), mussten wir kreativ werden. Wir ergänzten den sprite der Maus mit dem costume "Game over!" und fügten an den beschriebenen Block noch "set costume to >Game over!<" hinzu. Zwär hätte man nun den überflüssigen "Game over!"-sprite-block mit dem Block des Maus-sprites zusammenführen können, doch fanden wir den Effekt schöner, dass bei der Berührung der Maus mit einer Katze die Maus verschwindet, während bei Ablauf der Zeit die Maus auf der stage weiterhin sichtbar ist. 
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
@@ -78,7 +79,7 @@ Pong + Cross the Road ->2 Stunden
 -
 Da wir nun endlich das Spiel Pong abgeschlossen haben, möchten wir uns nun einem dritten Projekt für unsere gleichwertige Leistung für das Fach Informatik entscheiden. Nach einigen Überlegungen hatte Tabea den Einfall "Cross the Road" nachzuprogrammieren. Es handelt sich auch hierbei wieder um ein berühmtes Spiel, bei welchem man ein Objekt über eine Straße lenkt, ohne fahrende/sich fortbewegende Gegenstände zu berühren und zu einem Ziel zu gelangen.
 
-Wie in den vergangenen Projekten guckten wir auch diese Mal wieder auf Youtube nach einem Orientierungsbeispiel, auf das wir in Notfällen zurückgreifen können und entscheiden uns für <a href="https://www.youtube.com/watch?v=ntufT0tm6xM">diese Version</a>" der Ausführung. Im Anschluss eröffneten wir auf unserm gemeinsamen Snap!-Account ein neues Projekt naen "Crossy Road" und gestalteten die Basis des Projektes. Wir zeichneten mithilfe der Funktion "paint" eine Stage und gliederten sie in die Bereiche in denen sich der Spieler in sicherheit befindet und in die, wo die "Jäger-sprites" sich aufhalten, die Straße, die wir noch in senkrechte Bahnen für die Jäger einteilten. Zuletzt wählten wir die costumes der sprites aus. Für das Objekt, as gesteuert wird, wurde es eine Maus und die Jäger wurden drei katzen. So endete diese zweite Hälfte der Doppelstunde erstaunlich schnell und wir freuten uns bereits auf die kommenden Stunden.
+Wie in den vergangenen Projekten guckten wir auch diese Mal wieder auf Youtube nach einem Orientierungsbeispiel, auf das wir in Notfällen zurückgreifen können und entscheiden uns für <a href="https://www.youtube.com/watch?v=ntufT0tm6xM">diese Version</a>" der Ausführung. Im Anschluss eröffneten wir auf unserm gemeinsamen Snap!-Account ein neues Projekt naen "Crossy Road" und gestalteten die Basis des Projektes. Wir zeichneten mithilfe der Funktion "paint" eine Stage und gliederten sie in die Bereiche in denen sich der Spieler in sicherheit befindet und in die, wo die "Jäger-sprites" sich aufhalten, die Straße, die wir noch in senkrechte Bahnen für die Jäger einteilten. Zuletzt wählten wir die costumes der sprites aus. Für das Objekt, welches gesteuert wird, wurde es eine Maus und die Jäger wurden drei Katzen. So endete diese zweite Hälfte der Doppelstunde erstaunlich schnell und wir freuen uns bereits auf die kommenden Stunden.
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
