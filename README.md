@@ -36,7 +36,7 @@ Daraufhin probierten wir aus Interesse verschiedene Möglichkeiten aus, mit dene
 
 1. ![bsp applab](https://xxx.... (Webadresse zum Screenshot) ?raw=true "Names des Bildes/Screenshots")
 
-Dann versuchten wir uns an die Vorstellung, einen Screenshot als Link zu einer Webseite einzurichten. Dafür nahmen wir einen Link, wie wir ihn schon immer nutzen und gaben im Anschluss in das Textfeld den bei 1. genutzten Link ein. Da dies funktionierte, nannten wir den Screenshot zu "Link zur Website" um. Diese Funktion nutzten wir sofort hier im Projektblog. Die drei verwendeten Screenshots fungieren nun als Link zur Website "Snap!" auf der die Endergebnisse unserer Projekte veröffentlich und bei Zugriff auf die Webadresse auch nutzbar sind. Siehe [hier](#hier):
+Dann versuchten wir uns an die Vorstellung, einen Screenshot als Link zu einer Webseite einzurichten. Dafür nahmen wir einen Link, wie wir ihn schon immer nutzen und gaben im Anschluss in das Textfeld den bei 1. genutzten Link ein. Da dies funktionierte, nannten wir den Screenshot zu "Link zur Website" um. Diese Funktion nutzten wir sofort hier im Projektblog. Die drei verwendeten Screenshots fungieren nun als Link zur Website "Snap!" auf der die Endergebnisse unserer Projekte veröffentlich und bei Zugriff auf die Webadresse auch nutzbar sind. Siehe beispielsweise [hier](#hier):
 
 2. <a href= "(Link zur Website)" ![bsp applab](https://xxx.... (Webadresse zum Screenshot) ?raw=true "Link zum Spiel")</a>
 
