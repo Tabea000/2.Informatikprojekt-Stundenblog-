@@ -41,6 +41,10 @@ Dann versuchten wir uns an die Vorstellung, einen Screenshot als Link zu einer W
 2. <a href= "(Link zur Website)" ![bsp applab](https://xxx.... (Webadresse zum Screenshot) ?raw=true "Link zum Spiel")</a>
 
 
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
+
+
+
 ### <a name="zehnt"></a>Zehnte Informatikstunde am 26.1.2018
 
 Heute mussten wir erstmal wichtige Besprechungen untereinander tätigen. Bis jetzt haben wir unseren Projektpräsentationsblog noch nicht richtig begonnen und der Abgabetermin rückt immer näher, sodass dieses Thema immer mehr an Bedeutung gewinnt, andererseits wäre es auch nicht schlecht ein viertes kleines Projekt noch abzuschließen. Letztlich fiel unsere Wahl auf die erste Vorgehensweise. Weitere Projekte würden auch noch weitere Arbeit schaffen, die wir zu beenden hätten. 
