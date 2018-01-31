@@ -72,7 +72,7 @@ Somit haben wir nun auch unser drittes Projekt der Reihe fertiggestellt und wir 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
  
-### <a name="sieben"></a>Siebte Informatikstunde  am 17.1.2018
+### <a name="sieben"></a>Siebte Informatikstunde am 17.1.2018
 
 Heute wollten wir verschiedene Zwischenziele erreichen und schafften dies auch erfolgreich, auch wenn wir nur eine Einzelstunde Zeit hatten. Zunächst erntwickelten wir die Steuerung der Maus, die sich mit allen vier Pfeiltasten fortbewegen lässt. Daraufhin drehten wir die Katzen so, dass sie sich jetzt senkrecht über die stage bewegen. Mittels des Bausteins "if on edge, bounce" in forever"-"move x steps" konnten wir den einwandfreien Ablauf ermöglichen. Jetzt mussten wir uns der etwas schwierigeren Aufgabe zuwenden, dem Spiel ein Ende zu geben. Hierfür importierten wir für einen neuen sprite das costume "Game over!" nach Snap! und richteten ähnlich wie bei den vorhergegangenen Spielen einen timer ein, der sich jedoch noch jetzt jede Sekunde um den Wert Eins erhöht. 
 
@@ -136,7 +136,7 @@ Trotz alledem war es so, dass noch immer nicht alle Oktopuss nach dem Farbumschw
 
 
 
-### <a name="zwei"></a>Zweite Informatikstunde am 24.11.2017 ->2stunden
+### <a name="zwei"></a>Zweite Informatikstunde am 24.11.2017 
 
 Nachdem unsere Fortschritte bei "Pong" etwas nachließen und wir in der letzten Stunde nicht so recht wussten, wie wir nun fortfahren sollten um die aufgekommenen Schwierigkeiten bezüglich der score zu beseitigen, beschlossen wir, heute uns zunächst einem anderen Projekt zuzuwenden und dieses in den folgenden Stunden abzuschließen, um nicht die Freude an dieser Art zu programmieren zu verlieren. 
 Da unser Ziel für diese Projektarbeit es war, mehrere kleine populäre Minispiele nachzuprogrammieren, überlegten wir uns einige Zeit lang, womit wir uns nun beschäftigen könnten. Unsere Wahl fiel auf ein "Shooting Game", das jedem bekannt sein sollte. Von einem solchen Spiel fanden wir eine ausführliche Anleitung für Snap auf Youtube, auf welche das wir uns bei Schwierigkeiten beziehen könnten, jedoch wollten wir zunächst den Anfang allein angehen.
