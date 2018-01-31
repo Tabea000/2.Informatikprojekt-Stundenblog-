@@ -87,9 +87,7 @@ In der vorherigen Stunde am Freitag konnten wir das Programmieren unseres Spiels
 
 Somit haben heute unser erstes kleines Minispiel für zwei Player fertig programmiert. Auch wenn unser Weg zum Ergebnis von ziemlich hartnäckigenSchwierigkeiten geprägt war, sind wir mit unserem endgültigen Resultat äußerst zufrieden. Wahrscheinlichliegt liegt gerade diese Freude an "<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=Juliane000&ProjectName=Pong%20endg%C3%BCltige%20Version%2015.12">Pong</a>" an der komplizierten und arbeitsintensiven Zeit, in der wir an diesem Projekt gearbeitet haben. Unser Endergebnis, ist, wie schon das Shooting Game, im "<a href="https://github.com/Tabea000/2.Informatikprojekt-Projektpraesentation-">Projektpräsentationsblog</a>" fachlich dokumentiert. 
 
-![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/P%201_Pr%C3%A4sentation.png?raw=true "Präsentation")
-
-<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=Juliane000&ProjectName=Pong%20endg%C3%BCltige%20Version%2015.12">![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/P%201_Pr%C3%A4sentation.png?raw=true "Präsentation")</a>
+<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=Juliane000&ProjectName=Pong%20endg%C3%BCltige%20Version%2015.12">![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/P%201_Pr%C3%A4sentation.png?raw=true "Link zum Spiel")</a>
 
 Da wir nun endlich das Spiel Pong abgeschlossen haben, möchten wir uns nun einem dritten Projekt für unsere gleichwertige Leistung für das Fach Informatik entscheiden. Nach einigen Überlegungen hatte Tabea den Einfall "Cross the Road" nachzuprogrammieren. Es handelt sich auch hierbei wieder um ein berühmtes Spiel, bei welchem man ein Objekt über eine Straße lenkt, ohne fahrende/sich fortbewegende Gegenstände zu berühren und zu einem Ziel zu gelangen.
 
@@ -119,7 +117,8 @@ Da wir wir noch genug Zeit hatten, wollten wir, anstatt nur die "Won-Funktion" z
 
 Unser Fazit zu diesem Spiel ist überwiegend positiv, da wir fast ganz allein es schafften, ein Spiel zu programmieren, indem wir uns neue, aber auch schon bekannte Funktionen des Programmes Snap zu Nutzen machen konnten. Was uns leider etwas Einschränkte, waren die Grenzen, die dieses Programm hat. Zur Berechnung und Ausführung der von uns programmierten Einstellungen, benötigte Snap! beispielsweise bei dem Trefferbaustein aus unererfindlichen Gründen wesentlich länger und behinderte somit den Ablauf. Außerdem konnten wir auch bis zum Schluss den Fehler nicht beheben, dass bei mehrfachem Klicken auf ein Objekt auch die Punktanzahl weiter steigt und es somit theoretisch möglich wäre, nur durch einen Oktopuss fast seine 6 Punkte für ein erfolgreiches Spiel zu erreichen. Möglicherweise würde eine an die Farbe gekoppelte score hierbei weiterhelfen. Da dies jedoch eine Umstrukturierung nahezu aller scripts erfordern würde, möchten wir uns in den nächsten Stunden lieber wieder dem Spiel Pong zuwenden, bei welchem wir noch deutlich größere Lücken aufzuarbeiten haben.
 
-![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/SG%201%20Pr%C3%A4sentation.png?raw=true "Präsentation")
+
+<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=Juliane000&ProjectName=Shooting%20Game%20Versuch%20Won">![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/SG%201%20Pr%C3%A4sentation.png?raw=true "Link zum Spiel")</a>
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
