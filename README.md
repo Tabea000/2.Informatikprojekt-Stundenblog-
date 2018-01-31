@@ -27,7 +27,7 @@
 
 
 
-"<a href="https://github.com/Tabea000/2.Informatikprojekt-Projektpraesentation-">![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/CtR%201_Pr%C3%A4stentation.png?raw=true "Präsentation")</a>"
+<a href="https://github.com/Tabea000/2.Informatikprojekt-Projektpraesentation-">![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/CtR%201_Pr%C3%A4stentation.png?raw=true "Präsentation")</a>
 
 
 
@@ -69,7 +69,7 @@ Zuallerletzt galt es nur noch, aus ästhetischen Gründen an die touching-effect
 
 Somit haben wir nun auch unser drittes Projekt der Reihe fertiggestellt und wir haben bemerkt, dass bei den Spielen oft Gemeinsamkeiten auftreten, sodass wir weniger Schwierigkeiten hatten und schneller vorrankamen, als bei vorhergegangenen Projekten. "<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Crossy%20road%2015.12-">Cross the Road</a>" hat uns Spaß gemacht, doch denken wir ach, dass es wahrscheinlich besser wäre, sich nun etwas anspruchsvolleren Aufgaben zuzuwenden, da jetzt auch bald die letzte große Projekteinheit begonnen wird. Wir konnten uns aber in den vergangenen Stunden das Prinzip aneignen, einfache und kleine Minispiele zu programmien, an denen jeder Spaß hat. Auch dieses mal möchten wir für genauere Eröläuterungen des Projektes auf unseren "<a href="https://github.com/Tabea000/2.Informatikprojekt-Projektpraesentation-">Projektpräsentationsblog</a>" hinweisen.
 
-![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/CtR%201_Pr%C3%A4stentation.png?raw=true "Präsentation")
+<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Crossy%20road%2015.12-">![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/CtR%201_Pr%C3%A4stentation.png?raw=true "Präsentation")</a>
 
 [→Inhaltsverzeichnis](#Inhaltsverzeichnis)
 
