@@ -30,6 +30,7 @@
 
 ### <a name="elf"></a>Elfte Informatikstunde 
 
+In der heutigen Stunde haben wir uns etwas weiter an unserem Projektblog und dem Stundenblog gearbeitet, um alles rechtzeitig fertigstellen zu können. Wir wählten die geeigneten Bilder aus, und löschten einige überflüssige, damit das Text-Bild Verhältnis ausgewogen ist. 
 
 
 ### <a name="zehnt"></a>Zehnte Informatikstunde am 26.1.2018
