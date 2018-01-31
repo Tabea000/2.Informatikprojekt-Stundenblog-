@@ -30,7 +30,15 @@
 
 ### <a name="elf"></a>Elfte Informatikstunde 
 
-In der heutigen Stunde haben wir uns etwas weiter an unserem Projektblog und dem Stundenblog gearbeitet, um alles rechtzeitig fertigstellen zu können. Wir wählten die geeigneten Bilder aus, und löschten einige überflüssige, damit das Text-Bild Verhältnis ausgewogen ist. 
+In der heutigen Stunde haben wir uns etwas weiter an unserem Projektblog und dem Stundenblog gearbeitet, um alles rechtzeitig fertigstellen zu können. Wir wählten die geeigneten Bilder aus, und löschten einige überflüssige, damit das Text-Bild Verhältnis ausgewogener wurde. Des weiteren besprachen wir den groben Aufbau der einzelnen Präsentationen und teilten sie uns etwas zu, damit wir uns mehr auf das jeweilige Projekt fokussieren werden können. 
+
+Daraufhin probierten wir aus Interesse verschiedene Möglichkeiten aus, mit denen man eingefügte Screenshots bearbeiten kann. Dabei handelte ich jedoch um Ideen, für die wir keine Anregung hatten und die einzig auf unsere "Kreativität" ( :) ) zurückzuführen sind. Der erste Ansatz diente der Benennung der eingefügten Bilder, bzw. dem Anzeigen eines Namen, sodass von nun an eine Bildunterrschrift, wie wir sie im ersten Projekt noch nutzen, nicht mehr nötig ist. Der Link hierfür, sieht folgendermaßen aus: 
+
+1. ![bsp applab](https://xxx.... (Webadresse zum Screenshot) ?raw=true "Names des Bildes/Screenshots")
+
+Dann versuchten wir uns an die Vorstellung, einen Screenshot als Link zu einer Webseite einzurichten. Dafür nahmen wir einen Link, wie wir ihn schon immer nutzen und gaben im Anschluss in das Textfeld den bei 1. genutzten Link ein. Da dies funktionierte, nannten wir den Screenshot zu "Link zur Website" um. Diese Funktion nutzten wir sofort hier im Projektblog. Die drei verwendeten Screenshots fungieren nun als Link zur Website "Snap!" auf der die Endergebnisse unserer Projekte veröffentlich und bei Zugriff auf die Webadresse auch nutzbar sind.
+
+<a href=" (Link zur Website) ">![bsp applab](https://xxx.... (Webadresse zum Screenshot) ?raw=true "Link zum Spiel")</a>
 
 
 ### <a name="zehnt"></a>Zehnte Informatikstunde am 26.1.2018
