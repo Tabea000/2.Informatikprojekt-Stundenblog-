@@ -29,7 +29,7 @@
 
 <a href="https://github.com/Tabea000/2.Informatikprojekt-Projektpraesentation-">![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/CtR%201_Pr%C3%A4stentation.png?raw=true "Präsentation")</a>
 
-<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Crossy%20road%2015.12">![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/CtR%201_Pr%C3%A4stentation.png?raw=true "Präsentation"</a>)
+<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Crossy%20road%2015.12">![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/CtR%201_Pr%C3%A4stentation.png?raw=true "Präsentation")</a>
 
 
 ### <a name="elf"></a>Elfte Informatikstunde 
