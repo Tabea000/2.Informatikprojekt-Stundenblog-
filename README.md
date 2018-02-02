@@ -25,14 +25,13 @@
 
 [Elfte Stunde](#elf)
 
+[Zwölfte Stunde](#zwölf)
 
-<a href="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Crossy%20road%2015.12">![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/CtR%201_Pr%C3%A4stentation.png?raw=true "Link zum Spiel")</a>
 
-<iframe src="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Crossy%20road%2015.12">![bsp applab](https://raw.githubusercontent.com/Tabea000/2.Informatikprojekt-Stundenblog-/master/Bildverzeichnis/CtR%201_Pr%C3%A4stentation.png?raw=true "Link zum Spiel")></iframe>
+### <a name="zwölf"></a>Zwölfte Informatikstunde am 2.2.2018
 
-<iframe src="https://snap.berkeley.edu/snapsource/snap.html#present:Username=juliane000&ProjectName=Crossy%20road%2015.12"></iframe>
 
-### <a name="elf"></a>Elfte Informatikstunde 
+### <a name="elf"></a>Elfte Informatikstunde 31.1.2018
 
 In der heutigen Stunde haben wir uns etwas weiter an unserem Projektblog und dem Stundenblog gearbeitet, um alles rechtzeitig fertigstellen zu können. Wir wählten die geeigneten Bilder aus, und löschten einige überflüssige, damit das Text-Bild Verhältnis ausgewogener wurde. Des Weiteren besprachen wir den groben Aufbau der einzelnen Präsentationen und teilten sie uns etwas zu, damit wir uns mehr auf das jeweilige Projekt fokussieren werden können. 
 
