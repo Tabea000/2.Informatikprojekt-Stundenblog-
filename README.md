@@ -34,6 +34,9 @@ Da wir uns leider mit dem Abgabedatum vertan haben, hätten wir eigentlich ein l
 
 Zwischendurch versuchten wir uns auch noch einige Zeit an einer Weiterentwicklung des Ansatzes, der Funktionalisierung von eingefügten Screenshots. Hierfür suchte Herr Buhl uns einen Link im Internet heraus, der es möglich machen sollte, im angezeigten Bildfeld, die Website aufzurufen und somit auch das Spiel zu spielen, ohne die Github-Seite zu verlassen. Jedoch fanden wir im Nachhinein, nach verschiedensten Versuchen heraus, dass bei Github eine solche Funktion nicht umsetzbar ist. Trotzdem denken wir, dass wir letztendlich den richtigen Ansatz gewählt hatten, da dieser der Funktionsweise des verlinkten Screenshots glich, mit dem Unterschied, dass die anzeigende Funktion den Rahmen um den Link bildete, anstelle des Öffnens der Website.
 
+[→Inhaltsverzeichnis](#Inhaltsverzeichnis)
+
+
 
 ### <a name="elf"></a>Elfte Informatikstunde 31.1.2018
 
